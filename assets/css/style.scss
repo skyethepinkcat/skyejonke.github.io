@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #fdeeed;
+}
+
+.main-content { 
+	h1, h2, h3, h4, h5, h6 {
+		color: #b657db;
+	}
+
+	a {
+	  color: #b61c52;
+	}
+}
+
+.page-header {
+	color: #fff;
+	text-align: center;
+	background-image: linear-gradient(120deg, #ffb3cb 60%, #ffa0a0);
+}

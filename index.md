@@ -1,3 +1,8 @@
+---
+layout: list
+title: Main
+permalink: /
+---
 # So, what does Skye want?
 - Nerd Crap
   - [Logitech G502](https://www.amazon.com/gp/product/B07GBZ4Q68)
