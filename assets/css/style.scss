@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 
-@import "light.scss";
+$bg-color: #fdeeed;
+$header-color: #b657db;
+$link-color: #b61c52;
 
 body {
   background-color: $bg-color;
