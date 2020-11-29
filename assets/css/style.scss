@@ -3,17 +3,19 @@
 
 @import "{{ site.theme }}";
 
+@import "light.scss";
+
 body {
-  background-color: #fdeeed;
+  background-color: $bg-color;
 }
 
 .main-content { 
 	h1, h2, h3, h4, h5, h6 {
-		color: #b657db;
+		color: $header-color;
 	}
 
 	a {
-	  color: #b61c52;
+	  color: $link-color;
 	}
 }
 
