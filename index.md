@@ -7,7 +7,7 @@ permalink: /
 - Nerd Crap
   - [Logitech G502](https://www.amazon.com/gp/product/B07GBZ4Q68)
 - Video Games
-  - Worms Rumble 
+  - [Worms Rumble](https://store.steampowered.com/app/1186040/Worms_Rumble/)
   - [Steam Money](https://store.steampowered.com/digitalgiftcards/)
   - Nintendo Switch
     - [Full version is preferred, but only if it can be afforded and is
