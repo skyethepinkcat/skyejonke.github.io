@@ -6,6 +6,8 @@ permalink: /
 # So, what does Skye want?
 - Nerd Crap
   - [Logitech G502](https://www.amazon.com/gp/product/B07GBZ4Q68)
+  - [Bluetooth Adapter](https://www.amazon.com/TP-Link-Bluetooth-Receiver-Controllers-UB400/dp/B07V1SZCY6/)
+  - [r0tring](https://www.amazon.com/rOtring-Retractable-Mechanical-Pencil-1904447/dp/B00AZWNS84/)
 - Video Games
   - [Worms Rumble](https://store.steampowered.com/app/1186040/Worms_Rumble/)
   - [Steam Money](https://store.steampowered.com/digitalgiftcards/)
@@ -22,3 +24,5 @@ permalink: /
   - [Girl Friends (from vol 2)](https://www.amazon.com/dp/1937867099/)
   - [Failed Princesses (from vol 2)](https://www.amazon.com/gp/product/B08DTKPH5F/)
   - [Otherside Picnic](https://www.amazon.com/Otherside-Picnic-1-Iori-Miyazawa-ebook/dp/B07VFBD4R3/)
+- Misc
+  - $$$
