@@ -5,26 +5,25 @@ permalink: /
 ---
 # So, what does Skye want?
 - Nerd Crap
-  - [Logitech G502](https://www.amazon.com/gp/product/B07GBZ4Q68)
-  - [Bluetooth Adapter](https://www.amazon.com/TP-Link-Bluetooth-Receiver-Controllers-UB400/dp/B07V1SZCY6/)
-  - [r0tring](https://www.amazon.com/rOtring-Retractable-Mechanical-Pencil-1904447/dp/B00AZWNS84/)
+  - [Sakura Mech Keyboard (Blue Switches)](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4580)
 - Video Games
-  - [Worms Rumble](https://store.steampowered.com/app/1186040/Worms_Rumble/)
   - [Steam Money](https://store.steampowered.com/digitalgiftcards/)
-  - Nintendo Switch
-    - [Full version is preferred, but only if it can be afforded and is
-      in
-      stock](https://www.bestbuy.com/site/nintendo-switch-32gb-console-neon-red-neon-blue-joy-con/6364255.p)
-    - [Preferred Lite
-      Color is Coral](https://www.bestbuy.com/site/nintendo-switch-32gb-lite-coral/6257148.p)
-- Books (Physical Unless Otherwise Noted) (Organized from Most Wanted to Least)
-  - [How Do We Relationship?](https://www.amazon.com/How-Do-We-Relationship-Vol/dp/1974711749/)
-  - [After Hours](https://www.amazon.com/dp/1421593807/)
+  - [Hyrule Warriors: Age of Calamity](https://www.amazon.com/Hyrule-Warriors-Age-Calamity-Nintendo-Switch/dp/B08HP4K7KC/)
+  - [Fire Emblem: Three Houses](https://www.amazon.com/Fire-Emblem-Three-Houses-Nintendo-Switch/dp/B07DK13HKX/)
+- Manga And Anime (Physical Unless Otherwise Noted) (Organized from Most Wanted to Least)
+  - [Revolutionary Girl Utena Set 2](https://www.rightstufanime.com/Revolutionary-Girl-Utena-Set-2-Blu-Ray)
+  - [Otherside Picnic](https://www.rightstufanime.com/Otherside-Picnic-Novel-Omnibus-Volume-1)
+  - [Doughnuts Under A Cresent Moon](https://www.rightstufanime.com/Doughnuts-Under-a-Crescent-Moon-Manga-Volume-1)
+  - [In another world with my smartphone](https://www.rightstufanime.com/In-Another-World-With-My-Smartphone-Essentials-Blu-ray)
+  - [YuriKuma Arashi](https://www.rightstufanime.com/Yurikuma-Arashi-Essentials-Blu-ray)
+  - [Space Patrol Luluco](https://www.rightstufanime.com/Space-Patrol-Luluco-Essentials-Blu-ray)
+  - [Sexiled Vol 1](https://www.rightstufanime.com/Sexiled-Novel-Volume-1)
   - [Yuri Is My Job! (Beginning from Vol 2)](https://www.amazon.com/dp/1632367785/)
   - [Failed Princesses (from vol 2)](https://www.amazon.com/gp/product/B08DTKPH5F/)
   - [Goodbye, My Rose Garden](https://www.amazon.com/Goodbye-My-Rose-Garden-Vol-ebook/dp/B0867D9MYJ/)
   - [Otherside Picnic (Kindle)](https://www.amazon.com/Otherside-Picnic-1-Iori-Miyazawa-ebook/dp/B07VFBD4R3/)
-  - [Love Me For Who I Am](https://www.amazon.com/dp/B0872SPKWP/)
   - [Girl Friends (from vol 2)](https://www.amazon.com/dp/1937867099/)
 - Misc
   - $$$
+  - Dunkin Gift Cards
+  - Starbucks Gift Cards
