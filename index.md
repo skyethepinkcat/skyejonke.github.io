@@ -8,10 +8,6 @@ Note, I'm not expecting to get all of these, I try to overfill it so I can use
 it later.
 
 - Nerd Crap
-  - [Razer Kiyo Webcam](https://www.razer.com/streaming-cameras/razer-kiyo/RZ19-02320100-R3M1) \$100
-    - Or honestly any webcam
-    - I feel a need to put the coolest one I can find on the list
-    - I just want to stop using a ps2 eye toy
   - [Sakura Mech Keyboard (Blue Switches)](https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4580) \$143
 - Video Games (Organized from Most Wanted to Least)
   - [Monster Hunter Rise](https://www.amazon.com/Monster-Hunter-Rise-Nintendo-Switch/dp/B08JJ37XVW/) \$60 
