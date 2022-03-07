@@ -10,14 +10,14 @@
 
 ## Technology
 
--   [USB-C to USB hub [$30](https://www.amazon.com/UtechSmart-Ethernet-Delivery-Compatible-Chromebook/dp/B07H2ZS1B5/)]
+-   [USB-C to USB hub ($30)](https://www.amazon.com/UtechSmart-Ethernet-Delivery-Compatible-Chromebook/dp/B07H2ZS1B5/)]
 -   Ipad + Apple Pencil (>$300)
 -   [128 GB SD Card 2 Pack ($28.70)](https://www.amazon.com/SanDisk-128GB-256GB-MicroSD-Memory/dp/B07YQ5M4V4/ref=sr_1_1?crid=2GX1NT9PXL59J&keywords=sd+card+128gb+2&qid=1646671656&sprefix=sd+card+128gb+2%2Caps%2C82&sr=8-1)
 
 
 ## Pens and Related
 
--   [Uni Kuru Toga Mech Pencil (Pikachu!)]($13)](https://www.jetpens.com/Uni-Kuru-Toga-Mechanical-Pencil-0.5-mm-Pokemon-Yellow-Pikachu/pd/31419)
+-   [Uni Kuru Toga Mech Pencil (Pikachu!)($13)](https://www.jetpens.com/Uni-Kuru-Toga-Mechanical-Pencil-0.5-mm-Pokemon-Yellow-Pikachu/pd/31419)
 -   [Rotring 800 Drafting Pencil - 0.5 mm - Black Body ($50)](https://www.jetpens.com/Rotring-800-Drafting-Pencil-0.5-mm-Black-Body/pd/6767)
 
 
