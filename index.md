@@ -42,4 +42,5 @@
 
 ## Other
 
+- [Gundam The Witch from Mercury Model Kit](https://www.rightstufanime.com/Aerial-Mobile-Suit-Gundam-The-Witch-From-Mercury-Full-Mechanics-1-100-Model-Kit)
 - [#include \<coffee.h\> mug (18.51)](https://www.redbubble.com/i/mug/include-coffee-h-Funny-C-Programmer-Mug-by-ramiro/14221421.9Q0AD)
