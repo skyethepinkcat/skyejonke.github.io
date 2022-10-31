@@ -40,3 +40,6 @@
 -   [Kase-san and Yamada Manga Volume 2 ($13)](https://www.rightstufanime.com/Kase-san-and-Yamada-Manga-Volume-2)
 -   [Pokemon Adventures Manga Box Set 2 ($44)](https://www.rightstufanime.com/Pokemon-Adventures-Manga-Box-Set-Volume-2-Volume-8-Volume-14-Gold-Silver)
 
+## Other
+
+- [#include \<coffee.h\> mug (18.51)](https://www.redbubble.com/i/mug/include-coffee-h-Funny-C-Programmer-Mug-by-ramiro/14221421.9Q0AD)
