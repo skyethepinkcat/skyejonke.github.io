@@ -1,7 +1,6 @@
 # Wishlist
 
 ## Misc
-?variant=39523827417158
 -   Money
 -   Money
 -   More money
