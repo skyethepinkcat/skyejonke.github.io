@@ -5,17 +5,20 @@
 - Money
 - More money
 - i am technically below the poverty line
-- Starbucks gift cards!
+- Starbucks + Dunkin gift cards!
 - Maybe a bike or something???
 
 ## Adulty things (I can't believe I'm putting these on my list... I'm getting old...)
 - A strainer with small enough holes rice won't fall through
 - Popcorn air popper
-- mugs!
+- (largish) mugs!
 - extension cables and surge protectors
 
 ## Technology
 
+- [Logitech M650 Mouse (pink)](https://www.logitech.com/en-us/products/mice/m650-signature-wireless-mouse.html)
+- [Steamdeck Dock](https://store.steampowered.com/steamdeckdock)
+- [Seagate External Harddrive](https://www.amazon.com/Seagate-Portable-External-Hard-Drive/dp/B07CRG94G3/)
 - [Kobo Libra 2 (159.99)](https://us.kobobooks.com/products/kobo-libra-2)
 - Ipad + Apple Pencil (\>$300)
 
@@ -27,13 +30,10 @@
 
 ## Games
 
-
-- [8Bitdo Ultimate Bluetooth Controller ($70)](https://www.amazon.com/dp/B0B9BGJVLL)
+- [Fire Emblem: Engage](https://www.nintendo.com/store/products/fire-emblem-engage-switch/)
 - [Dwarf Fortress Steam ($30)](https://store.steampowered.com/app/975370/Dwarf_Fortress/)
 - [2DS XL (Orange and White, **NOT** Black + Turqoise) (Used is fine) (&le;$200)](https://www.amazon.com/dp/B075BD7RYX/ref=twister_B075MJLB5B?_encoding=UTF8&psc=1)
-- [Pokémon Sword Expansion Pass ($30)](https://swordshield.pokemon.com/en-us/expansionpass/)
 - If you really want to buy me something else you can likely find something in any price range on my [steam wishlist](https://store.steampowered.com/wishlist/profiles/76561198130985823/#sort=order)
-
 
 ## Books and Anime
 
@@ -47,4 +47,4 @@
 ## Other
 
 - [Gundam The Witch from Mercury Model Kit](https://www.rightstufanime.com/Aerial-Mobile-Suit-Gundam-The-Witch-From-Mercury-Full-Mechanics-1-100-Model-Kit)
-- [#include \<coffee.h\> mug (18.51)](https://www.redbubble.com/i/mug/include-coffee-h-Funny-C-Programmer-Mug-by-ramiro/14221421.9Q0AD)
+- [Hunt a Killer -- Earth Break: Omega Protocol (Season 1)](https://shop.huntakiller.com/products/earth-break-omega-protocol-complete-season-box-set)
