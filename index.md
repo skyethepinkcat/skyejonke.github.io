@@ -9,6 +9,7 @@
 - Maybe a bike or something???
 
 ## Adulty things (I can't believe I'm putting these on my list... I'm getting old...)
+- Bedframe
 - A strainer with small enough holes rice won't fall through
 - Popcorn air popper
 - (largish) mugs!
