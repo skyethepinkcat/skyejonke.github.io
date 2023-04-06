@@ -17,8 +17,7 @@
 
 ## Technology
 
-- [Logitech M650 Mouse (pink)](https://www.logitech.com/en-us/products/mice/m650-signature-wireless-mouse.html)
-- [Steamdeck Dock](https://store.steampowered.com/steamdeckdock)
+- [Bulk USB3 16gb Flash Drives](https://www.amazon.com/Flash-Drive-KEXIN-Drives-Memory/dp/B07T4MMJZ7/)
 - [Seagate External Harddrive](https://www.amazon.com/Seagate-Portable-External-Hard-Drive/dp/B07CRG94G3/)
 - [Kobo Libra 2 (159.99)](https://us.kobobooks.com/products/kobo-libra-2)
 - Ipad + Apple Pencil (\>$300)
@@ -32,13 +31,11 @@
 ## Games
 
 - [Fire Emblem: Engage](https://www.nintendo.com/store/products/fire-emblem-engage-switch/)
-- [Dwarf Fortress Steam ($30)](https://store.steampowered.com/app/975370/Dwarf_Fortress/)
 - [2DS XL (Orange and White, **NOT** Black + Turqoise) (Used is fine) (&le;$200)](https://www.amazon.com/dp/B075BD7RYX/ref=twister_B075MJLB5B?_encoding=UTF8&psc=1)
 - If you really want to buy me something else you can likely find something in any price range on my [steam wishlist](https://store.steampowered.com/wishlist/profiles/76561198130985823/#sort=order)
 
 ## Books and Anime
 
-- [Nona the Ninth Hardcover ($26.96)](https://bookshop.org/p/books/nona-the-ninth-tamsyn-muir/17377005)
 - [Otherside Picnic NOVEL Volume 2 ($18.39)](https://www.rightstufanime.com/Otherside-Picnic-Novel-Omnibus-Volume-2)
 - [Revolutionary Girl Utena Set 3 Blu-Ray ($50)](https://www.rightstufanime.com/Revolutionary-Girl-Utena-Set-3-Blu-Ray)
 - [Kase-san and Yamada Manga Volume 1 ($13)](https://www.rightstufanime.com/Kase-san-and-Yamada-Manga)
