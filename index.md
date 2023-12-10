@@ -1,48 +1,55 @@
-# Wishlist
+# Formatting Notes
 
-## Misc
-- Money
-- Money
-- More money
-- i am technically below the poverty line
-- Starbucks + Dunkin gift cards!
-- Maybe a bike or something???
-
-## Adulty things (I can't believe I'm putting these on my list... I'm getting old...)
-- Bedframe
-- A strainer with small enough holes rice won't fall through
-- Popcorn air popper
-- (largish) mugs!
-- extension cables and surge protectors
-
-## Technology
-
-- [Bulk USB3 16gb Flash Drives](https://www.amazon.com/Flash-Drive-KEXIN-Drives-Memory/dp/B07T4MMJZ7/)
-- [Seagate External Harddrive](https://www.amazon.com/Seagate-Portable-External-Hard-Drive/dp/B07CRG94G3/)
-- [Kobo Libra 2 (159.99)](https://us.kobobooks.com/products/kobo-libra-2)
-- Ipad + Apple Pencil (\>$300)
+-   Starred (★) entries are priority (things I particularly want this Christmas), otherwise they are unordered
 
 
-## Pens and Related
+# Adulty things (I can't believe I'm putting these on my list&#x2026; I'm getting old&#x2026;)
 
-- [Uni Kuru Toga Mech Pencil (Pikachu!)($13)](https://www.jetpens.com/Uni-Kuru-Toga-Mechanical-Pencil-0.5-mm-Pokemon-Yellow-Pikachu/pd/31419)
+-   A strainer with small enough holes rice won't fall through
+-   T shirts !
+-   A comforter
+-   Gloves
 
 
-## Games
+# Technology
 
-- [Fire Emblem: Engage](https://www.nintendo.com/store/products/fire-emblem-engage-switch/)
-- [2DS XL (Orange and White, **NOT** Black + Turqoise) (Used is fine) (&le;$200)](https://www.amazon.com/dp/B075BD7RYX/ref=twister_B075MJLB5B?_encoding=UTF8&psc=1)
-- If you really want to buy me something else you can likely find something in any price range on my [steam wishlist](https://store.steampowered.com/wishlist/profiles/76561198130985823/#sort=order)
+-   [★Kobo Libra 2 Ebook Reader ($190)★](https://us.kobobooks.com/products/kobo-libra-2)
+    -   [Rakuten Kobo Gift Cards (if getting the libra 2)](https://www.kobo.com/us/en/p/giftcards )
+-   [512 GB SD card ($35)](https://www.amazon.com/SAMSUNG-Adapter-microSDXC-MB-ME512KA-AM/dp/B09B1HMJ9Z/)
+-   [Seagate External Harddrive](https://www.amazon.com/Seagate-Portable-External-Hard-Drive/dp/B07CRG94G3/)
+-   [Wireless Earbuds ($59)](https://www.amazon.com/Audio-Technica-ATH-SQ1TWBK-Wireless-Headphones-Black/dp/B09HV68N3Y)
+-   [Anker Power Bank ($60)](https://www.amazon.com/Anker-Portable-Charger-PowerCore-Microsoft/dp/B0B9XHR6BG/ref=sr_1_1?crid=1C9E4GCOQ9X28&keywords=anker%2Bpower%2Bbank%2Bsteam%2Bdeck&qid=1702229388&sprefix=anker%2Bpower%2Bbank%2Bsteam%2Bdeck%2Caps%2C80&sr=8-1&ufe=app_do%3Aamzn1.fos.17d9e15d-4e43-4581-b373-0e5c1a776d5d&th=1)
+-   Ipad + Apple Pencil (>$300)
+-   [Pinetime ($27.00)](https://pine64.com/product/pinetime-smartwatch-sealed/)
 
-## Books and Anime
 
-- [Otherside Picnic NOVEL Volume 2 ($18.39)](https://www.rightstufanime.com/Otherside-Picnic-Novel-Omnibus-Volume-2)
-- [Revolutionary Girl Utena Set 3 Blu-Ray ($50)](https://www.rightstufanime.com/Revolutionary-Girl-Utena-Set-3-Blu-Ray)
-- [Kase-san and Yamada Manga Volume 1 ($13)](https://www.rightstufanime.com/Kase-san-and-Yamada-Manga)
-- [Kase-san and Yamada Manga Volume 2 ($13)](https://www.rightstufanime.com/Kase-san-and-Yamada-Manga-Volume-2)
-- [Pokemon Adventures Manga Box Set 2 ($44)](https://www.rightstufanime.com/Pokemon-Adventures-Manga-Box-Set-Volume-2-Volume-8-Volume-14-Gold-Silver)
+# Pens and Related
 
-## Other
+-   [JetPens Pink Pen Sampler ($30)](https://www.jetpens.com/JetPens-Pink-Pen-Sampler/pd/23238#index=0)
 
-- [Gundam The Witch from Mercury Model Kit](https://www.rightstufanime.com/Aerial-Mobile-Suit-Gundam-The-Witch-From-Mercury-Full-Mechanics-1-100-Model-Kit)
-- [Hunt a Killer -- Earth Break: Omega Protocol (Season 1)](https://shop.huntakiller.com/products/earth-break-omega-protocol-complete-season-box-set)
+
+# Games
+
+-   [2DS XL Used is Fine (&le; $200)](https://www.amazon.com/dp/B075BD7RYX/ref=twister_B075MJLB5B?_encoding=UTF8&psc=1)
+-   [Kirby and the Forgotten Land ($60)](https://www.amazon.com/Kirby-Forgotten-Land-Nintendo-Switch/dp/B09H221SH4/)
+-
+
+-   If you really want to buy me something else you can likely find
+
+something in any price range on my [steam wishlist](https://store.steampowered.com/wishlist/profiles/76561198130985823/#sort=order)
+
+
+# Books and Media
+
+-   [Libro.fm Subscription ($45-$180)](https://libro.fm/gift)
+-   [Spiderman Across the Spiderverse Blu-Ray ($25)](https://www.amazon.com/Spider-Man-Across-Spider-Verse-Combo-Digital/dp/B0C685HXPN/)
+
+
+# Misc
+
+-   Money
+-   Money
+-   More money
+-   i am technically below the poverty line
+-   Starbucks + Dunkin gift cards!
+-   Maybe a bike or something???
